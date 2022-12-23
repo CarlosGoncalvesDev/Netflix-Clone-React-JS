@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was clone Neatflix.
+<strong> This project was clone Netflix. </strong>
 
 ## Available Scripts
 
