@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# How to started my project Clone Netflix
 
 <strong> This project was clone Netflix. </strong>
 
