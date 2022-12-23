@@ -1,6 +1,7 @@
 # How to started my project Clone Netflix
 
 <strong> This project was clone Netflix. </strong>
+![image](https://user-images.githubusercontent.com/103325026/209262624-81433f93-79cf-4189-ab84-e0dacbb16e58.png)
 
 ## Available Scripts
 
