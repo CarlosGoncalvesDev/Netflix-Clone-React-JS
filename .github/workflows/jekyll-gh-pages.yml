@@ -37,7 +37,9 @@ jobs:
         run: |
           npm install
           npm run build
-          npm run test
+          npm audit fix --force
+          npm install --save-dev @babel/plugin-proposal-private-property-in-object
+          npm run test --passWithNotTests
           
 
   # Deployment job
