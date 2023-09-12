@@ -31,6 +31,8 @@ jobs:
         uses: actions/setup-node@v2
         with:
           node-version: 18.
+      - name: Clean cache
+        run: npm cache clean --force
       - name: run install, build and test
         run: |
           npm install
